@@ -1,3 +1,6 @@
-
 ## Apluma
-![apluma](./.github/00.png)
+![apluma](.//apluma/00.png)
+
+
+## Apricot
+![apricot](.//apricot/00.png)
